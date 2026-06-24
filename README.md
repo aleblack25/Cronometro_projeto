@@ -62,7 +62,8 @@ Durante o desenvolvimento deste projeto foram praticados:
 1. Clone o repositório:
 
 ```bash
-git clone https://aleblack25.github.io/Cronometro_projeto/
+git clone
+https://aleblack25.github.io/Cronometro_projeto/
 ```
 
 2. Abra o arquivo `index.html` no navegador.
